@@ -6,3 +6,21 @@
   a {
     color: lightskyblue;
   }
+
+  .list {
+    size-adjust: 8;
+    color: deepskyblue;
+  }
+
+
+  .add {
+    size-adjust: 15;
+  }
+
+  .hoverBig:hover {
+    scale: 1.15;
+  }
+
+  a:hover {
+    color: lightgreen;
+  }
